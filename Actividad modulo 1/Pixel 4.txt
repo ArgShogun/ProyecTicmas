@@ -1,0 +1,41 @@
+Pixel 4   
+API30
+1080x2280
+Android 11
+
+
+4 nucleoss
+1536MB RAM
+228MB VM hep
+6144MB Almacenamiento interno
+512MB SD Card
+
+Pixel C
+API 30
+2560x1800
+Android 11
+
+4 nucleoos
+1536MB Ram
+192MB VM Heap
+6144MB Almacenamiento interno
+512MB SD Card
+
+
+Diferencia en el funcionamiento entre tablet y telefono
+
+Modo portrait:
+En tablet: Se ven todas las imagenes completas, menos el menu del costaddo
+En telefono: No se ven todasa las imagenes, hay que scrollear para poder visualizar todas
+
+Modo Landscape:
+En tablet: Se ve todo, tanto imagenes, como el menu que aparece a la izquierda
+En telefono: Solo se ven las imagenes y no todas.
+
+
+El nombre de la aplicacion se encuentra en:
+Res>Values>strings.xml
+
+El icono se encuentra en:
+Res>mpmap>ic_launcher
+Res>mpmap>ic_launcher_round
